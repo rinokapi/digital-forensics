@@ -1,4 +1,4 @@
-# Digital Forensics
+# Digital Forensics 💾
 As part of a course I've been taking, I recorded my screen while I worked with these tools, and I wanted to share the video as an example of my experience and skills in this area. The tools I used include:
 
 - Windows OS: systeminfo.exe, date & time, doskey, net, netstat
@@ -13,9 +13,10 @@ As part of a course I've been taking, I recorded my screen while I worked with t
 
 Through this project, I was able to gain hands-on experience in using these tools to conduct digital investigations and extract evidence from various digital devices. I also learned a lot about the importance of proper documentation and preservation of evidence in the digital forensics process.
 
+Video link: [YouTube]()
+
 ## Table of contents 📋
 
-- [Tools](#Digital-Forensics)
 - [Collecting Volatile Information in a Windows System](#Collecting-Volatile-Information-in-a-Windows-System)
 - [Extracting Volatile Information Using Process Explorer](#Extracting-Volatile-Information-Using-Process-Explorer)
 - [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-Monitoring-and-Analyzing-Events-in-a-Windows-System)
