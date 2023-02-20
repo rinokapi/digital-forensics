@@ -17,8 +17,8 @@ Through this project, I was able to gain hands-on experience in using these tool
 
 - [Collecting Volatile Information in a Windows System](#Collecting-Volatile-Information-in-a-Windows-System)
 - [Extracting Volatile Information Using Process Explorer](#Extracting-Volatile-Information-Using-Process-Explorer)
-- [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-,-Monitoring-,-and-Analyzing-Events-in-a-Windows-System)
-- [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-,-Monitoring-,-and-Analyzing-Events-in-a-Windows-System)
+- [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-Monitoring-and-Analyzing-Events-in-a-Windows-System)
+- [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-Monitoring-and-Analyzing-Events-in-a-Windows-System)
 - [Acquiring Volatile Data in a Linux System](#Acquiring-Volatile-Data-in-a-Linux-System)
 - [Creating a Disk Image File of a Hard Disk Partition Using the R-Drive Image](#Creating-a-Disk-Image-File-of-a-Hard-Disk-Partition-Using-the-R-Drive-Image)
 - [Creating a Disk Image File of a Hard Disk Partition Using the R-Drive Image](#Creating-a-Disk-Image-File-of-a-Hard-Disk-Partition-Using-the-R-Drive-Image)
