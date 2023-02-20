@@ -15,7 +15,7 @@ Through this project, I was able to gain hands-on experience in using these tool
 
 ## Table of contents 📋
 
-- [Tools](#Digital-Forensics-💾)
+- [Tools](#Digital-Forensics)
 - [Collecting Volatile Information in a Windows System](#Collecting-Volatile-Information-in-a-Windows-System)
 - [Extracting Volatile Information Using Process Explorer](#Extracting-Volatile-Information-Using-Process-Explorer)
 - [Viewing, Monitoring, and Analyzing Events in a Windows System](#Viewing-Monitoring-and-Analyzing-Events-in-a-Windows-System)
