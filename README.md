@@ -1,4 +1,4 @@
-# Digital Forensics 💾
+# Digital Forensics
 As part of a course I've been taking, I recorded my screen while I worked with these tools, and I wanted to share the video as an example of my experience and skills in this area. The tools I used include:
 
 - Windows OS: systeminfo.exe, date & time, doskey, net, netstat
