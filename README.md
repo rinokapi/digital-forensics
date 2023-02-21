@@ -26,7 +26,7 @@ Through this project, I was able to gain hands-on experience in using these tool
 - [Analyzing Nonvolatile Data in Linux System](#Analyzing-Nonvolatile-Data-in-Linux-System)
 - [Data Carving from a Disk Image using Foremost](#Data-Carving-from-a-Disk-Image-using-Foremost)
 - [Analyzing Windows 2003 Memory Images Using Volatility](#Analyzing-Windows-2003-Memory-Images-Using-Volatility)
-- [Resources](#Resources)
+- [Resources](#Resources-)
 
 ## Exercices 📝
 
