@@ -34,42 +34,42 @@ Through this project, I was able to gain hands-on experience in using these tool
 ### Collecting Volatile Information in a Windows System
 Volatile memory, in contrast to non-volatile memory, is computer memory that requires power to maintain the stored information; it retains its contents while powered on, but when the power is interrupted, stored data are quickly lost. Volatile memory has several uses, including as main memory. In addition to usually being faster than forms of mass storage, such as a hard disk drive, volatility can protect sensitive information, as it becomes unavailable upon power-down. Most of a computer’s general-purpose random-access memory (RAM) is volatile.
 
-Objectives: **This lab demonstrates how to collect volatile information from a live system running the Windows operating system.**
+Objectives: **This exercise demonstrates how to collect volatile information from a live system running the Windows operating system.**
 
 ### Extracting Volatile Information Using Process Explorer
 The Process Explorer program can be used to check if a given process is malicious or suspicious. Process Explorer shows information about opened or loaded handles and DLLs. The Process Explorer display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owner accounts, whereas the information displayed in the bottom window depends on Process Explorer’s mode. If it is in handle mode, you will see the handles opened by the process selected in the top window. If Process Explorer is in DLL mode, you will see the DLLs and memory-mapped files that the process has loaded.
 
-Objectives: **This lab demonstrates how to extract volatile information from running processes using Process Explorer.**
+Objectives: **This exercise demonstrates how to extract volatile information from running processes using Process Explorer.**
 
 ### Viewing, Monitoring, and Analyzing Events in a Windows System
 Event Log Explorer works with both local and remote event logs, as well as with event log files in EVT and EVTX format. It can read event log files directly (without Event Log API), allowing you to access even damaged log files. Event Log Explorer lists computers, event logs, and log files in the object tree. You can open or manage any event log in the tree with just a click.
 
-Objectives: **This lab demonstrates how to view, monitor, and analyze various events in a Windows system using Event Log Explorer.**
+Objectives: **This exercise demonstrates how to view, monitor, and analyze various events in a Windows system using Event Log Explorer.**
 
 ### Acquiring Volatile Data in a Linux System
 Most of Linux systems store data related to the current session in a temporary form across registries, cache, and RAM. These data are easily lost when the user switches the system off, resulting in loss of the session information. Therefore, incident responders need to prioritize extracting this information.
 
-Objectives: **This lab demonstrates how to gather volatile data from a live Linux system and analyze it to find traces of attack to define the type, impact points, and path**
+Objectives: **This exercise demonstrates how to gather volatile data from a live Linux system and analyze it to find traces of attack to define the type, impact points, and path**
 
 ### Creating a Disk Image using FTK Imager
 FTK Imager is a data preview and imaging tool that enables you to analyze files and folders on local hard drives, CDs/DVDs, and network drives, as well as examining the content of forensic images or memory dumps. FTK Imager can also create MD5 or SHA1 hashes of files, review and recover files deleted from the Recycle Bin, export files and folders from forensic images to disk, and mount a forensic image to view its contents in Windows Explorer.
 
-Objectives: **This lab demonstrates how to create a disk image using FTK Imager.**
+Objectives: **This exercise demonstrates how to create a disk image using FTK Imager.**
 
 ### Performing a Computer Forensic Investigation Using the Helix Tool
 Helix is an easy-to-use cybersecurity solution that can be integrated into your network, giving you visibility across your entire infrastructure and revealing malicious activities such as internet abuse, data sharing violations, and harassment. It also allows incident handlers to isolate and respond to incidents or threats quickly and without user detection through a central administration tool. It allows responders to quickly detect, identify, analyze, preserve, and report on a range of activity, giving incident handlers the evidence needed to reveal the truth and protect an organization.
 
-Objectives: **This lab demonstrates how to investigate a computer-based crime using the Helix tool.**
+Objectives: **This exercise demonstrates how to investigate a computer-based crime using the Helix tool.**
 
 ### Analyzing Nonvolatile Data in Linux System
 Autopsy is a digital forensics platform and graphical interface toused with The Sleuth Kit and other digital forensics tools. This tool helps incident handlers to view the file system, retrieve deleted data, perform timeline analysis, and web artifacts during an incident response effort.
 
-Objectives: **This lab demonstrates how to analyze an image of a Linux hard disk and gather required evidence from it using Autopsy.**
+Objectives: **This exercise demonstrates how to analyze an image of a Linux hard disk and gather required evidence from it using Autopsy.**
 
 ### Data Carving from a Disk Image using Foremost
 Foremost is a console program to recover files based on their headers, footers, and internal data structures. This process is commonly referred to as data carving. Foremost can work on image files, such as those generated by dd, Safeback, and Encase, or directly on a drive. The headers and footers can be specified by a configuration file or you can use command line switches to specify built-in file types. These built-in types look at the data structures of a given file format, allowing for a faster and more reliable recovery.
 
-Objectives: **This lab demonstrates how to extract files of different formats from a disk image using Foremost.**
+Objectives: **This exercise demonstrates how to extract files of different formats from a disk image using Foremost.**
 
 ### Analyzing Windows 2003 Memory Images Using Volatility
 Memory analysis is one of the most powerful tools available to forensic
@@ -83,12 +83,14 @@ Analysis can generally be accomplished in six steps:
 5. Check for Signs of a Rootkit
 6. Extract Processes, Drivers, and Objects
 
-Objectives: **This lab demonstrates how to analyze memory artifacts, analyze the registry using various plugins, identify rogue processes, and extract processes, drivers, and objects.**
+Objectives: **This exercise demonstrates how to analyze memory artifacts, analyze the registry using various plugins, identify rogue processes, and extract processes, drivers, and objects.**
 
 ### SANS KringleCon 2022
 Different repository:
 - [Network capture (.pcap) analysis using Wireshark and tshark](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
-- [Windows event log (.evtx.log) analysis](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
+- [Windows event logs (.evtx.log) analysis](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
+
+Objectives: **This exercise demonstrates how to solve the mysteries around the suspicious PCAP and to investigate Windows event log in the terminal.**
 
 ## Resources 📚
 - Lab: [Ec-Council Certified Incident Handler (E|CIH) Course](https://www.eccouncil.org/train-certify/ec-council-certified-incident-handler-ecih)
