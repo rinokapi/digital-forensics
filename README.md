@@ -13,7 +13,7 @@ As part of a course I've been taking, I recorded my screen while I worked with t
 
 Through this project, I was able to gain hands-on experience in using these tools to conduct digital investigations and extract evidence from various digital devices. I also learned a lot about the importance of proper documentation and preservation of evidence in the digital forensics process.
 
-**⭐ Video on YouTube : [Introduction to Digital Forensics Tools: A Practical Demonstration](https://youtu.be/q0I36SonYQo) (4 hours video) ⭐**
+**⭐ Video on YouTube: [Introduction to Digital Forensics Tools: A Practical Demonstration](https://youtu.be/q0I36SonYQo) (4 hours video) ⭐**
 
 ## Table of contents 📋
 
