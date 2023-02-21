@@ -34,7 +34,7 @@ Through this project, I was able to gain hands-on experience in using these tool
 ### Collecting Volatile Information in a Windows System
 Volatile memory, in contrast to non-volatile memory, is computer memory that requires power to maintain the stored information; it retains its contents while powered on, but when the power is interrupted, stored data are quickly lost. Volatile memory has several uses, including as main memory. In addition to usually being faster than forms of mass storage, such as a hard disk drive, volatility can protect sensitive information, as it becomes unavailable upon power-down. Most of a computer’s general-purpose random-access memory (RAM) is volatile.
 
-___Objectives: **This exercise demonstrates how to collect volatile information from a live system running the Windows operating system.**___
+Objectives: **This exercise demonstrates how to collect volatile information from a live system running the Windows operating system.**
 
 ### Extracting Volatile Information Using Process Explorer
 The Process Explorer program can be used to check if a given process is malicious or suspicious. Process Explorer shows information about opened or loaded handles and DLLs. The Process Explorer display consists of two sub-windows. The top window always shows a list of the currently active processes, including the names of their owner accounts, whereas the information displayed in the bottom window depends on Process Explorer’s mode. If it is in handle mode, you will see the handles opened by the process selected in the top window. If Process Explorer is in DLL mode, you will see the DLLs and memory-mapped files that the process has loaded.
