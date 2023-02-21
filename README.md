@@ -26,8 +26,8 @@ Through this project, I was able to gain hands-on experience in using these tool
 - [Analyzing Nonvolatile Data in Linux System](#Analyzing-Nonvolatile-Data-in-Linux-System)
 - [Data Carving from a Disk Image using Foremost](#Data-Carving-from-a-Disk-Image-using-Foremost)
 - [Analyzing Windows 2003 Memory Images Using Volatility](#Analyzing-Windows-2003-Memory-Images-Using-Volatility)
-- [SANS KringleCon 2022](#SANS-KringleCon-2022)
-- [Resources](#Resources-)
+- [SANS Holiday Hack Challenge & KringleCon 2022](#SANS-Holiday-Hack-Challenge-&-KringleCon)
+- [Resources](#Resources-📚)
 
 ## Exercices 📝
 
@@ -85,7 +85,7 @@ Analysis can generally be accomplished in six steps:
 
 Objectives: **This exercise demonstrates how to analyze memory artifacts, analyze the registry using various plugins, identify rogue processes, and extract processes, drivers, and objects.**
 
-### SANS KringleCon 2022
+### SANS Holiday Hack Challenge & KringleCon 2022
 Different repository:
 - [Network capture (.pcap) analysis using Wireshark and tshark](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
 - [Windows event logs (.evtx.log) analysis](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
