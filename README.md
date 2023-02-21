@@ -28,7 +28,7 @@ Through this project, I was able to gain hands-on experience in using these tool
 - [Analyzing Windows 2003 Memory Images Using Volatility](#Analyzing-Windows-2003-Memory-Images-Using-Volatility)
 - [Resources](#Resources)
 
-## Exercies 📝
+## Exercices 📝
 
 ### Collecting Volatile Information in a Windows System
 Volatile memory, in contrast to non-volatile memory, is computer memory that requires power to maintain the stored information; it retains its contents while powered on, but when the power is interrupted, stored data are quickly lost. Volatile memory has several uses, including as main memory. In addition to usually being faster than forms of mass storage, such as a hard disk drive, volatility can protect sensitive information, as it becomes unavailable upon power-down. Most of a computer’s general-purpose random-access memory (RAM) is volatile.
