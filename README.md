@@ -89,6 +89,8 @@ Objectives: **This exercise demonstrates how to analyze memory artifacts, analyz
 Different repository:
 - [Network capture (.pcap) analysis using Wireshark and tshark](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
 - [Windows event logs (.evtx.log) analysis](https://github.com/rinokapi/SANSKringleCon2022#wireshark-practice)
+Google Drive (PDF):
+- [Suspicious DNS request on DGA (Domain Generation Algorithm) type domain](https://drive.google.com/file/d/1BjL5KP3qwCen4ItZswaSn2EwG6rKodIY/view?usp=share_link)
 
 Objectives: **This exercise demonstrates how to solve the mysteries around the suspicious PCAP and to investigate Windows event log in the terminal.**
 
